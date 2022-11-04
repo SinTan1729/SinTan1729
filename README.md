@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics and do some programming as hobby
 - 🎓 I’m currently doing my PhD in Mathematics
 - 🇮🇳 I'm from India
-- 🇺🇸 Currently living in the US
+- 🇺🇸 Currently living in US
 - 📄 My [CV](https://github.com/SinTan1729/CV/blob/main/CV.pdf)
 - 🔗 Link to my [GitLab profile](https://gitlab.com/SinTan1729)
 
