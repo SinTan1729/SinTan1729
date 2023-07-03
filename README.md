@@ -5,7 +5,6 @@
 - 🇺🇸 Currently living in US
 - 📄 My [CV](https://github.com/SinTan1729/CV/blob/main/CV.pdf)
 - 🔗 Link to my [university website](https://math.ou.edu/~ssantra)
-- 🔗 Link to my [GitLab profile](https://gitlab.com/SinTan1729)
 
 <!---
 SinTan1729/SinTan1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
