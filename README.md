@@ -4,6 +4,7 @@
 - 🇮🇳 I'm from India
 - 🇺🇸 Currently living in US
 - 📄 My [CV](https://github.com/SinTan1729/CV/blob/main/CV.pdf)
+- My PGP Key: [0538DD402EA50898](https://keys.openpgp.org/vks/v1/by-fingerprint/169184CC4DF2E3C10566089C0538DD402EA50898)
 
 <!---
 SinTan1729/SinTan1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
