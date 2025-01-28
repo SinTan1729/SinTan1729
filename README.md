@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sayantan Santra (@SinTan1729)
 - 👀 I’m interested in Mathematics and do some programming as a hobby
 - 🎓 I have an M. Math. from the Indian Statistical Institute
-- 🎓 I’m currently doing PhD in Mathematics
-- 🇮🇳 I'm from India
+- 🎓 I’m currently doing PhD in Mathematics at the University of Oklahoma
+- 🎓 I currently do research on Number Theory, specifically Modular Forms
+- 🇮🇳 I'm a Bengali from India
 - 🇺🇸 Currently living in US
 - 📄 My [CV](https://links.sintan1729.uk/cv)
 - 🔗 You can learn more about me on [my website](https://about.sayantansantra.com)
