@@ -5,8 +5,8 @@
 - 🎓 I currently do research on Number Theory, specifically Modular Forms
 - 🇮🇳 I'm a Bengali from India
 - 🇺🇸 Currently living in US
-- 📄 My [CV](https://links.sintan1729.uk/cv)
-- 🔗 You can learn more about me on [my website](https://about.sayantansantra.com)
+- 📄 My [CV](https://chhoto.link/cv)
+- 🔗 You can learn more about me on [my website](https://chhoto.link/me)
 
 <!---
 SinTan1729/SinTan1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
